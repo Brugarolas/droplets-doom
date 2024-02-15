@@ -1,0 +1,5 @@
+actor DCompat_Cacademon : Cacademon replaces Cacademon
+{
+	BloodColor "00 00 ff"
+	BloodType "BlueSquirt"
+}
